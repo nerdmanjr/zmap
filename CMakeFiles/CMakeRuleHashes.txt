@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+9f029c1c6ad5a8c7d4a685c0115b1191 src/lexer.c
+3be0426bf42e0dbb9ee7e3979f669d60 src/parser.c
+3dd3ed4ac75c9213057fa474822b74bb src/zopt.h
